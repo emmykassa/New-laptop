@@ -27,5 +27,6 @@ payload
 ]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
+		<logger level="INFO" doc:name="Logger" doc:id="6ccc0587-a9ac-497e-809f-d6ac339269ec" message="doon"/>
 	</flow>
 </mule>
